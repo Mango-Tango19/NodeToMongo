@@ -1,0 +1,5 @@
+20221019	10:41:36	753ae29b-3721-4cc5-90de-bee5e4036d88	SyntaxError: Unexpected token u in JSON at position 4
+20221019	10:48:22	f4fcb67c-1b15-4a9e-8554-ad5396fd07a9	TypeError: Cannot read properties of undefined (reading 'authorization')
+20221025	20:22:38	c1d9e47b-b792-47ec-9a33-3441d91399fc	TypeError: Cannot read properties of undefined (reading 'authorization')
+20221025	20:30:08	b8432760-7603-4c8a-a127-3a6f83e67c4c	TypeError: Cannot read properties of undefined (reading 'authorization')
+20221025	20:32:07	ccf66794-475e-47b9-961e-32fd961f0d77	TypeError: Cannot read properties of undefined (reading 'authorization')
