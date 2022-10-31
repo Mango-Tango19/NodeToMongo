@@ -3,3 +3,4 @@
 20221025	20:22:38	c1d9e47b-b792-47ec-9a33-3441d91399fc	TypeError: Cannot read properties of undefined (reading 'authorization')
 20221025	20:30:08	b8432760-7603-4c8a-a127-3a6f83e67c4c	TypeError: Cannot read properties of undefined (reading 'authorization')
 20221025	20:32:07	ccf66794-475e-47b9-961e-32fd961f0d77	TypeError: Cannot read properties of undefined (reading 'authorization')
+20221030	19:21:51	d3f94c57-73a2-4505-abde-f25297484633	SyntaxError: Unexpected token ' in JSON at position 16
